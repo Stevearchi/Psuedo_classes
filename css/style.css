@@ -1,0 +1,49 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    color: #111;
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: 700;
+    padding:.4em 1em;
+    color: #222;
+}
+
+h2 {
+    font-size: 1.8em;
+    font-weight: 700;
+    padding: 0.4em 0;
+    color: #333;
+}
+
+h3 {
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #333;
+    padding: 0.4em 0;
+}
+
+p {
+    color: #444;
+    padding: .3em 0;
+}
+
+.firstDiv {
+    float: left;
+    width: 45%;
+    padding: 0 1em;
+    margin: 0 1em;
+    background-color: beige; 
+}
+
+
+a:visited {
+    color: blueviolet;
+}
+
+
+a:hover {
+    color: palegreen; 
+ }
